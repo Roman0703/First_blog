@@ -31,7 +31,7 @@ textarea { overflow:auto; }
 #navigation ul { list-style: none; }
 #navigation ul li { float: left; height: 43px; border-right: 1px solid #dbdbdb; font-size: 12px; line-height: 43px; font-weight: bold; text-transform: uppercase; }
 #navigation ul li a { float: left; height: 43px; color: #000; padding: 0 33px; }
-#navigation ul li a:hover, 
+#navigation ul li a:hover,
 #navigation ul li a.active { color: #ff0000; text-decoration: none; }
 
 
